@@ -1,8 +1,8 @@
 ## Hi, I'm Belle 🫧
 
-💻 Java student on a journey to become a fullstack developer
-✨ Currently learning Java, JavaScript and HTML & CSS
-🐞 Learning, coding, and occasionally dancing with bugs
+💻 Java student on a journey to become a fullstack developer <br>
+✨ Currently learning Java, JavaScript and HTML & CSS <br>
+🐞 Learning, coding, and occasionally dancing with bugs <br>
 
 
 # 💻 Tech Stack:
